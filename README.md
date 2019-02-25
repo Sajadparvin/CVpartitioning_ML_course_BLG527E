@@ -4,3 +4,9 @@ This code was an exercise given in BLG527E course.  The main motivation was to s
 How does it work?
 
 Just reads a data.mat file and by Folding the data set (USER DEFINED PARAMETER) it trains the model and calculate accuracy, sensitivity and specifity.
+
+
+Here are the results comparison with MATLAB code .
+
+
+![](Results.jpg)
